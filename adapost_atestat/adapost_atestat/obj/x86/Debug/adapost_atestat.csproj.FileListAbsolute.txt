@@ -1,0 +1,11 @@
+C:\Users\Kitty\onedrive\documents\visual studio 2010\Projects\adapost_atestat\adapost_atestat\bin\Debug\adapost_atestat.exe.config
+C:\Users\Kitty\onedrive\documents\visual studio 2010\Projects\adapost_atestat\adapost_atestat\bin\Debug\adapost.mdf
+C:\Users\Kitty\onedrive\documents\visual studio 2010\Projects\adapost_atestat\adapost_atestat\bin\Debug\adapost_log.ldf
+C:\Users\Kitty\onedrive\documents\visual studio 2010\Projects\adapost_atestat\adapost_atestat\bin\Debug\adapost_atestat.exe
+C:\Users\Kitty\onedrive\documents\visual studio 2010\Projects\adapost_atestat\adapost_atestat\bin\Debug\adapost_atestat.pdb
+C:\Users\Kitty\onedrive\documents\visual studio 2010\Projects\adapost_atestat\adapost_atestat\obj\x86\Debug\adapost_atestat.Form1.resources
+C:\Users\Kitty\onedrive\documents\visual studio 2010\Projects\adapost_atestat\adapost_atestat\obj\x86\Debug\adapost_atestat.Properties.Resources.resources
+C:\Users\Kitty\onedrive\documents\visual studio 2010\Projects\adapost_atestat\adapost_atestat\obj\x86\Debug\adapost_atestat.csproj.GenerateResource.Cache
+C:\Users\Kitty\onedrive\documents\visual studio 2010\Projects\adapost_atestat\adapost_atestat\obj\x86\Debug\adapost_atestat.exe
+C:\Users\Kitty\onedrive\documents\visual studio 2010\Projects\adapost_atestat\adapost_atestat\obj\x86\Debug\adapost_atestat.pdb
+C:\Users\Kitty\onedrive\documents\visual studio 2010\Projects\adapost_atestat\adapost_atestat\obj\x86\Debug\adapost_atestat.csprojResolveAssemblyReference.cache
